@@ -9,6 +9,7 @@ How to Run
 2.  Trust SQL Type Provider on startup - http://msdn.microsoft.com/en-us/library/hh212194.aspx
 3.  Right click on FShop.CreateDb project then select Debug -> Start New Instance
 4.  Make FShop project as a startup project  then hit F5.
+5.  Navigate browser to http://localhost:5424/Durandal/
 
 Credits
 =====
